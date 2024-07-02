@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+:root {
+  --grisLetra: #c7c7c7;
+  --verdeOcuro: #354733;
+  --poppins: "Poppins", sans-serif;
+}
